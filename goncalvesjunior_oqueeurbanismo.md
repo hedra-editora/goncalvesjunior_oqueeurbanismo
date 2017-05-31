@@ -1,4 +1,4 @@
-**UM TURBILHÃO DE COMPLEXIDADES**
+#Um turbilhão de complexidades
 
 Milhões de pessoas, em milhares de cidades, acordam diariamente a
 bordo de um gigantesco carrossel: filas, ônibus, semáforos, buzinas,
@@ -69,10 +69,10 @@ e inexplorada, delineia-se uma das ciências mais fascinantes e
 instigantes de nosso século, que penetra tanto no íntimo de cada
 indivíduo como no âmago da estrutura da cidade e da civilização.
 
-**CIDADE: PASSADO, PRESENTE E FUTURO**
+#Cidade: passado, presente e futuro
 
 O termo “urbanismo”, segundo o estudioso Gaston Bardet, parece ter
-surgido em 1910 no Bulletin de Ia Societé Geographique de Neufchatel. Deriva-se do latim — urbe = cidade e, etimologicamente
+surgido em 1910 no Bulletin de la Societé Geographique de Neufchatel. Deriva-se do latim — urbe = cidade e, etimologicamente
 falando, é o estudo ou compreensão da cidade.
 
 Cidade e urbe não foram sinônimas no mundo antigo: cidade era a
@@ -80,27 +80,13 @@ aglomeração das famílias e tribos; a urbe era o local sagrado e de
 reunião, o santuário destes povos. Roma exemplifica uma urbe
 totalmente “planejada”.
 
-![](media/image1.jpeg){width="3.2368055555555557in"
-height="2.6597222222222223in"}
-
-![](media/image2.jpeg){width="0.4395833333333333in"
-height="0.14652777777777778in"}
-
-E9 SISTEMA VIARIO PRINCIPAL
-
-E:J AQUEDUTOS
-
-ISJ MUROS
-
-*Ill\]* RIO
-
-1!3
+IMAGEM 1
 
 Desde o surgimento das primeiras comunidades humanas, havia indícios
 de algum tipo de organização, para proteção ou estabelecimento da
 hierarquia de poder: um urbanismo rudimentar.
 
-**A definição clássica**
+##A definição clássica
 
 A definição inicial da palavra urbanismo está diretamente ligada ao
 contexto social e histórico da época em que foi criada (fins do
@@ -112,13 +98,11 @@ chaminés que brotavam nas velhas cidades, durante os séculos XVIII e
 XIX. Ao longo de décadas, as pessoas disputavam cada metro quadrado da
 cidade, convivendo com as mais trágicas condições de vida. Como num
 formigueiro, aglomeravam-se ao redor das fábricas, ao longo de ruas
-imundas, nas quais o esgoto, que corria a céu aber-
-
-![](media/image3.jpeg){width="3.109722222222222in"
-height="4.127083333333333in"}
-to, e montanhas de lixo dominavam a paisagem. Epidemias proliferavam
+imundas, nas quais o esgoto, que corria a céu aberto, e montanhas de lixo dominavam a paisagem. Epidemias proliferavam
 sem controle, e as condições desumanas de trabalho nas fábricas não
 mediam horas nem respeitavam idade.
+
+IMAGEM 2
 
 As cidades com seus hábitos e características seculares viam-se
 entregues à mais completa desorganização física e social. Naquele
@@ -163,7 +147,7 @@ informatização da sociedade, as taxas de crescimento negativas,
 cidades com diminuição de população nos países do primeiro mundo
 etc.
 
-**Um novo conceito**
+##Um novo conceito
 
 Em busca de uma conceituação realmente abrangente, válida para o
 passado remoto e para o futuro, devemos esquecer as peculiaridades
@@ -173,8 +157,7 @@ sociedade que nela vive.
 
 Sob esse enfoque, o urbanismo é o estudo das relações entre
 determinada sociedade (cultura, tradição, poder, história, ... ) e o
-espaço que a abriga (ruas, construções, limitações geográficas, ...
-), bem como das formas de sua organização e intervenção sobre elas com
+espaço que a abriga (ruas, construções, limitações geográficas, ...), bem como das formas de sua organização e intervenção sobre elas com
 determinado objetivo.
 
 Esta visão destaca-se por seu dinamismo, adaptando-se à realidade ao
@@ -192,7 +175,7 @@ As definições clássicas, formuladas no início do século XX, ainda
 hoje norteiam muitos profissionais do urbanismo, quando nem o espaço
 nem a sociedade são mais os mesmos.
 
-**URBANISMO: ESPAÇO E SOCIEDADE**
+#Urbanismo: espaço e sociedade
 
 Em qualquer questão do urbanismo, da abertura de uma rua ao plano
 diretor de uma cidade, estão sempre presentes dois elemento
@@ -223,7 +206,7 @@ verdes, dentre outros, têm maior ou menor peso no desenvolvimento
 urbano. Essa identificação é fundamental para entendê-lo e
 organizá-lo.
 
-**Espaços e sociedades: formas de relação**
+##Espaços e sociedades: formas de relação
 
 Uma mesma sociedade pode estar em relação com diversos espaços e a
 recíproca também é verdadeira. Um exemplo da permanência do espaço, apesar de
@@ -260,9 +243,7 @@ pelos usos que predominam no espaço: escritórios de grandes
 empresas, bancos e intensa circulação de pedestres e automóveis. As
 relações sensitivas atingem a percepção sensorial imediata:
 aromas, cores e reflexos, texturas, sons, ruídos, frio e calor. E as
-imaginativas
-
-— consciente ou inconscientemente associadas ao repertório
+imaginativas — consciente ou inconscientemente associadas ao repertório
 ideológico-cultural — adquirem, neste exemplo, significados como
 progresso, riqueza, poder, opressão etc.
 
@@ -272,7 +253,7 @@ relação entre espaço e sociedade, como primeiro passo para o entendimento dos
 Dessa forma, pode-se avaliar a impressão final de um passeio pela
 Avenida Paulista como o somatório do funcional, do sensitivo e do imaginativo, que é a própria relação entre espaço e sociedade.
 
-**Por que as cidades são parecidas?**
+##Por que as cidades são parecidas?
 
 As sociedades têm estruturas diferentes e usam seus espaços de acordo
 com suas necessidades, em relações funcionais muito peculiares.
@@ -299,7 +280,7 @@ mais profundas alterações de todos os tempos, dando origem à
 civilização que espalhou cidades por todo o planeta: a civilização
 industrial.
 
-**O URBANISMO MODERNO E A CIVILIZAÇÃO INDUSTRIAL**
+#O urbanismo moderno e a civilização industrial
 
 O urbanismo adquire, ao longo da história, as mais diversas
 conotações, e sua evolução como ciência está intimamente ligada aos
@@ -319,13 +300,13 @@ sobressaem três grandes períodos com características determinantes
 da sociedade: a civilização agrícola, a civilização industrial e a
 civilização da informação.
 
-**Três civilizações**
+##Três civilizações
 
 A civilização agrícola começa com a descoberta da agricultura, cerca
 de 10 mil anos. Caracteriza-se pela ligação direta do homem com a
 natureza e atividades predominantemente agrárias. A pequena demanda de
 energia é suprida por fontes renováveis: lenha, carvão vegetal, roda
-d’água. Apesar da concentração demográfica em algumas cidades, a maior
+d'água. Apesar da concentração demográfica em algumas cidades, a maior
 parte da população vive dispersa pelas terras que cultiva e supre
 sua subsistência com a própria
 produção. O poder está na razão direta da posse de terras.
@@ -346,16 +327,15 @@ se deve o aspecto caótico do mundo atual.
 
 A civilização informacional ainda não está
 totalmente estabelecida, mas há indícios de que
-
-![](media/image4.jpeg){width="3.209722222222222in"
-height="3.5597222222222222in"}
 poderá vir a ser uma sociedade desmassificada, procurando e
 utilizando suas diferenças, reaproximando produtor e consumidor,
 tendendo à desconcentração, descentralização e convívio harmonioso
 com a natureza. A informação adquire papel fundamental e será o
 instrumento de poder da nova civilização.
 
-**A cidade através dos tempos**
+IMAGEM 3
+
+##A cidade através dos tempos
 
 Na civilização agrícola, a cidade abriga pequena parcela da população,
 cuja maior parte vive no campo. Apesar disso, já desempenha papel
@@ -385,7 +365,7 @@ concentrações populacionais, de energia e de poder nas cidades não
 mais serão uma necessidade, e a preocupação básica recairá sobre a
 adaptação dos espaços para abrigar esta nova sociedade.
 
-**A transição agrícola-industrial**
+##A transição agrícola-industrial
 
 O período de transição que atravessamos exige nova postura ao pensar a
 cidade, com novo enfoque do problema urbano. O período de
@@ -417,7 +397,7 @@ indústrias instalam-se aleatoriamente, com altíssimos níveis de
 poluição, degradando a natureza e explorando desumanamente o
 trabalho das pessoas.
 
-**A vitória do mundo industrial**
+##A vitória do mundo industrial
 
 Dois grupos são claramente identificáveis: os conservadores, que veem
 na indústria o grande mal da época e almejam um retorno aos bucólicos
@@ -437,7 +417,7 @@ Na época da formulação das grandes ciências, onde tudo deveria ser quantific
 científico, os progressistas sistematizam suas ideias, dando origem aos princípios do moderno urbanismo, que aponta possíveis caminhos
 para a cidade industrial.
 
-**Disciplinando o saber e a sociedade**
+##Disciplinando o saber e a sociedade
 
 Um dos grandes “trunfos da civilização industrial, o método
 científico, é largamente utilizado tanto para legitimar quanto para estimular o desenvolvimento
@@ -460,7 +440,6 @@ maioria dos casos) o modelo para toda a sociedade.
 
 Peças com algum problema têm de ser recuperadas rapidamente para
 voltar ao sistema
-
 — os grandes hospitais são criados para recolocar os trabalhadores em
 condição de produzir; componentes ainda saudáveis não
 funcionam adequadamente ou atrapalham a produção —, as penitenciárias
@@ -475,7 +454,7 @@ básica (pai, mãe, filhos), compõe-se de elementos realmente
 produtivos, afastados daqueles que podem afetar sua produtividade
 (parentes doentes, inválidos, velhos etc.).
 
-**Disciplinando o espaço**
+##Disciplinando o espaço
 
 Inicia-se também um verdadeiro policiamento sanitário, que impõe à
 cidade regras para sanear os problemas oriundos das recentes
@@ -492,7 +471,6 @@ Alguns anos depois, Pereira Passos, no Rio de Janeiro, também abre
 largas avenidas para desafogar o já movimentado centro da então
 capital da República. É o “bota abaixo” que promove a demolição de
 mais de
-
 600 prédios.
 
 O aperfeiçoamento e integração de todos esses processos de controle
@@ -506,7 +484,6 @@ instituições (fábricas, hospitais, serviços etc.), entre outros
 aspectos.
 
 O novo campo de atuação é batizado, em
-
 1910, com o nome de urbanismo. A partir de então, multiplicam-se as
 tentativas de sua teorização e aplicação.
 
@@ -514,7 +491,7 @@ Disciplinando a sociedade, o saber e finalmente o espaço, a sociedade industria
 século, não encontra mais fronteiras e espalha-se por todo o planeta, independentemente de diferenças políticas (capitalismo,
 socialismo), geográficas ou culturais.
 
-**A síntese modernista**
+##A síntese modernista
 
 Assim como várias vezes na história do conhecimento, conjuntos de
 ideias e informações são magicamente sintetizados por grandes pensadores, também o
@@ -530,7 +507,7 @@ influencia as discussões sobre o urbanismo nesse período, é Le Corbusier. Sin
 um conjunto de ideias que apontava soluções para o caos oriundo do
 desenvolvimento desordenado da era da máquina.
 
-**A cidade-máquina**
+##A cidade-máquina
 
 Enquanto os primeiros urbanistas atacam os problemas urbanos
 isoladamente (sanitarismo, tráfego, segurança etc.), Le Corbusier
@@ -561,7 +538,7 @@ Essa cidade poderia, independente de diferenças culturais ou
 políticas, ser implantada em qualquer ponto do planeta — e realmente o
 foi.
 
-**O homem industrial**
+##O homem industrial
 
 No pensamento do urbanismo moderno estava em formação um “novo
 homem”, totalmente adaptado à realidade industrial e que poderia
@@ -580,7 +557,7 @@ processo. A eles caberia a enorme responsabilidade de projetar as novas cidades 
 que se consideravam os salvadores do mundo. Afinal, com suas ideias,
 materializariam as verdades da nova civilização.
 
-**O urbanismo multidisciplinar**
+##O urbanismo multidisciplinar
 
 Não era essa a visão do escocês Patrick Guedes, precursor do urbanismo
 multidisciplinar, por volta da década de 20. Para ele, a cidade não
@@ -591,7 +568,7 @@ profissionais para compreender a cidade e nela intervir. Deveria
 fazer parte de uma equipe de sociólogos, geógrafos, economistas, antropólogos, sanitaristas, administradores etc. A cidade deveria ser
 analisada também segundo essas áreas.
 
-**O urbanismo científico**
+##O urbanismo científico
 
 Ambas as visões (“Carta de Atenas” e Guedes) pretendem o
 desenvolvimento de um urbanismo científico, tendo como princípio
@@ -629,15 +606,11 @@ O Brasil seria o cenário para uma das maiores intervenções do
 urbanismo moderno — a construção de Brasília. Nunca, até então, essas
 ideias tinham sido aplicadas de forma tão completa, criando uma cidade
 inteira do nada: concretizava-se no cerrado a vitória do
-
-![](media/image5.jpeg){width="1.6666666666666667in"
-height="2.1395833333333334in"}
-
-![](media/image6.jpeg){width="2.428472222222222in"
-height="1.3305555555555555in"}
 urbanismo moderno. Lúcio Costa, amigo de Le Corbusier, foi o maestro
 desta sinfonia urbanística que tinha como partitura a “Carta de
 Atenas”.
+
+IMAGEM 4
 
 A partir de Brasília, passa a existir um vasto material para a
 avaliação das propostas modernas. Contrariando expectativas, verifica-se a ineficiência do modelo urbanístico. O processo de decadência
@@ -655,13 +628,12 @@ descontentamento com as soluções urbanísticas. Logo, muitos estudiosos
 criticavam ferozmente o urbanismo moderno revelando que, de fato,
 muita coisa tinha de ser repensada. Mas o que teria acontecido? O urbanismo moderno teria errado?
 
-**A CRÍTICA AO URBANISMO MODERNO**
+#A crítica ao urbanismo moderno
 
 Muitos urbanistas acreditavam e acreditam que o urbanismo moderno
 errou durante todos esses anos, cometendo aí um erro muito maior
 pode-se afirmar com certeza que o urbanismo moderno respondeu
 perfeitamente
-
 às cidades da sociedade industrial. O que poucos perceberam é que
 começavam a desaparecer os princípios que sustentavam a era da
 indústria e, consequentemente, o urbanismo moderno.
@@ -678,7 +650,7 @@ industrial.
 Abrem-se inesperados horizontes, que oferecem inúmeros caminhos à
 exploração.
 
-**Apocalipse**
+##Apocalipse
 
 Como todas as grandes transformações da história, nesta também é
 difícil identificar os motivos que a fizeram acontecer, ainda mais
@@ -708,7 +680,7 @@ O urbanismo está diante do maior desafio desde sua implantação. No
 início do século pelo menos sabia-se que o futuro era o mundo
 industrial; depois disso o urbanismo se vê sem direção.
 
-**E agora?**
+##E agora?
 
 O que vimos nas duas últimas décadas foram apenas abordagens que
 diversificavam as discussões, criticando ou complementando o urbanismo
@@ -748,7 +720,7 @@ proximista, a sensitiva; a análise sintática, a funcional, com pitadas da sens
 deixa todas as relações acomodarem-se livremente num verdadeiro
 desurbanismo.
 
-**O impasse**
+##O impasse
 
 Toda essa discussão faz parte de um corpo crítico que levou o
 urbanismo a um impasse. A incapacidade de compreender as rápidas
@@ -778,7 +750,7 @@ são compostos por cápsulas habitáveis, como as da nave Apolo.
 Kiyonori Kikutake, no Japão, propõe uma cidade com espigões flutuantes
 sobre a baía de Tóquio.
 
-**As cidades não param**
+##As cidades não param
 
 Apesar de esse impasse destruir as grandes certezas dos urbanistas
 modernos, novas e mais complexas questões no cotidiano das cidades
@@ -787,8 +759,7 @@ realmente mais se destacou no cenário brasileiro foi o caso de
 Curitiba, que estourou nos anos 70 como uma das mais bem planejadas
 cidades do mundo.
 
-![](media/image7.jpeg){width="2.8513888888888888in"
-height="4.100694444444445in"}
+IMAGEM 5
 
 Adotando simples e criativas soluções, e dando igual ênfase às
 relações sensitiva, funcional e imaginativa, Curitiba, apesar de inserida num planejamento moderno, conseguiu quebrar a frieza funcional
@@ -805,7 +776,7 @@ implantados nas regiões de fluxo diário da maioria dos curitibanos.
 A criação dos calçadões no antigo e congestionado centro da cidade
 gerou uma nova relação sensitiva mais humana e participativa.
 
-**Urbanismo amarrado**
+##Urbanismo amarrado
 
 Inserido no impasse da transição, o profissional urbanista se sente
 desprovido das ferramentas necessárias para enfrentara nova dinâmica das cidades, como
@@ -838,7 +809,7 @@ que nos levarão a um novo destino, muito diferente do imaginado pela
 utopia industrial. Mas como será esse futuro? Onde ele está se
 formando?
 
-**POR UM NOVO URBANISMO: A CIDADE DO FUTURO**
+#Por um novo urbanismo: a cidade do futuro
 
 Certamente você não deixou estas páginas em branco, pois o desejo de
 conhecer o futuro
@@ -851,7 +822,7 @@ Urbanistas não fogem à regra. Na tentativa
 de preencher antecipadamente as páginas do futuro, apontam as mais
 variadas imagens da cidade que está para vir.
 
-**Sofisticando o presente**
+##Sofisticando o presente
 
 Nas megametrópoles dos neomalthusianos, os arranha-céus têm vários
 quilômetros de altura, e cada centímetro quadrado é disputado por
@@ -880,7 +851,7 @@ realmente do urbanismo do futuro.
 Confrontados com as tendências lineares e extrapolativas citadas,
 indícios de mudanças sócio-espaciais mostram novos rumos não lineares (aqui o linear não é formal, mas uma linha de raciocínio).
 
-**A ruptura com o mundo industrial**
+##A ruptura com o mundo industrial
 
 Cremos num futuro próximo derivado da ruptura das realidades da
 sociedade industrial, hoje num doloroso processo de transição, que
@@ -915,7 +886,7 @@ determinante da sociedade da informação.
 E o que tudo isso tem a ver com o urbanismo? O urbanismo é a relação
 espaço x sociedade, logo...
 
-**Sinais do futuro**
+##Sinais do futuro
 
 Outros fatos esparsos, despercebidos da grande maioria, na realidade
 poderão ser a base do “urbanismo do amanhã”.
@@ -957,7 +928,7 @@ também é uma tendência a ser considerada.
 O urbanismo do futuro estará, então, centrado
 na relação espaço x sociedade da informação.
 
-**A cidade informacional**
+##A cidade informacional
 
 Com o surgimento da cidade informacional, que não ocupará espaços
 físicos e sim uma
@@ -973,7 +944,7 @@ assim como reciclamos palácios medievais em shopping centers; ou,
 ainda, poderão ser um misto de reciclagem com aldeias, como são
 algumas cidades com trechos históricos e modernos.
 
-**O destino em nossas mãos**
+##O destino em nossas mãos
 
 Infinitas são as possibilidades de combinação de todas as tendências verificadas atualmente, pois está em
 gestação o futuro. Vale ressaltar que, longe de essas tendências serem, isoladamente, a provável realidade da sociedade no futuro, são,
@@ -1010,7 +981,7 @@ não existiu.
 Hoje, no limiar da era da informação, pensar em urbanismo é pensar
 em uma nova civilização.
 
-**INDICAÇÕES PARA LEITURA**
+#Indicações para leitura
 
 BENÉVOLO, Leonardo. A História da Cidade São Paulo Perspectiva.
 
