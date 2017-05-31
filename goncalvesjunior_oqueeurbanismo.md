@@ -63,7 +63,7 @@ hospitais ou os sistemas de água e esgoto —, sejam as mais
 complexas, como a solução mais adequada a determinada comunidade que
 tem peculiaridades culturais e sociais, ou o questionamento da cidade como forma de organização da sociedade.
 
-Tal como um iceberg, que na superfície revela apenas uma fração de
+Tal como um *iceberg,* que na superfície revela apenas uma fração de
 sua verdadeira dimensão, o urbanismo revela, através de suas intervenções, apenas alguns de seus aspectos. Em sua dimensão desconhecida
 e inexplorada, delineia-se uma das ciências mais fascinantes e
 instigantes de nosso século, que penetra tanto no íntimo de cada
@@ -72,11 +72,11 @@ indivíduo como no âmago da estrutura da cidade e da civilização.
 #Cidade: passado, presente e futuro
 
 O termo “urbanismo”, segundo o estudioso Gaston Bardet, parece ter
-surgido em 1910 no Bulletin de la Societé Geographique de Neufchatel. Deriva-se do latim — urbe = cidade e, etimologicamente
+surgido em 1910 no Bulletin de la Societé Geographique de Neufchatel. Deriva-se do latim — *urbe* = cidade e, etimologicamente
 falando, é o estudo ou compreensão da cidade.
 
-Cidade e urbe não foram sinônimas no mundo antigo: cidade era a
-aglomeração das famílias e tribos; a urbe era o local sagrado e de
+Cidade e *urbe* não foram sinônimas no mundo antigo: cidade era a
+aglomeração das famílias e tribos; a *urbe* era o local sagrado e de
 reunião, o santuário destes povos. Roma exemplifica uma urbe
 totalmente “planejada”.
 
@@ -214,7 +214,7 @@ profunda alteração social, ocorreu em diversas cidades da Europa,
 como em Roma, onde a “mesma” estrutura física que abrigou um dia os
 césares, hoje acolhe uma sociedade completamente diferente. O que
 mudou então não foi o espaço, mas a sua relação com a nova sociedade.
-Neste caso, o significado original do espaço alterou-se
+Neste caso, o *significado* original do espaço alterou-se
 profundamente.
 
 O povo judeu é exemplo de uma sociedade que permaneceu inalterada
@@ -940,7 +940,7 @@ cidade ou a organização espacial que vier a substituí-la.
 Poderão ser pequenas aldeias auto-suficientes, com alta tecnologia,
 dispersas por todo o mundo; aí não haveria mais as megametrópoles;
 poderão, ao contrário, ser cidades atuais adaptadas a novos usos,
-assim como reciclamos palácios medievais em shopping centers; ou,
+assim como reciclamos palácios medievais em *shopping centers*; ou,
 ainda, poderão ser um misto de reciclagem com aldeias, como são
 algumas cidades com trechos históricos e modernos.
 
@@ -983,21 +983,21 @@ em uma nova civilização.
 
 #Indicações para leitura
 
-BENÉVOLO, Leonardo. A História da Cidade São Paulo Perspectiva.
+BENÉVOLO, Leonardo. *A História da Cidade,* São Paulo Perspectiva.
 
-SANTOS, Jair Ferreira dos. O Que É Pós-Moderno, São Paulo Brasilense
+SANTOS, Jair Ferreira dos. *O Que É Pós-Moderno,* São Paulo Brasilense
 (Primeiros Passos, 165).
 
-TOFFLER, Alvim. A Terceira Onda, São Paulo, Record.
+TOFFLER, Alvim. *A Terceira Onda,* São Paulo, Record.
 
-Caro leitor:
+##Caro leitor:
 
 As opiniões expressas neste livro são as do autor, podem não ser as
 suas. Caso você ache que vale a pena escrever um outro livro sobre o
 mesmo tema, nós estamos dispostos a estudar sua publicação com o mesmo
 título como “segunda visão”.
 
-Sobre os autores
+#Sobre os autores
 
 Em 1985, ainda estudantes da UFPr, os quatro autores deste livro e
 mais um colega constituíram um grupo visando estimular o debate em
